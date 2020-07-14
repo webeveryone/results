@@ -1,0 +1,42 @@
+#center{
+  text-align:center;
+font-size:25px;
+  
+  
+}
+#position{
+  text-align:center;
+font-size:25px;
+color:#FFA500;
+background-color:#800080;
+  
+  
+}
+#position1{
+  display:block;
+margin-left:auto;
+margin-right:auto;
+width:75px;
+}
+#cycles{
+  text-align:center;
+font-size:15px;
+}
+a{
+  text-decoration:none;
+  color:#FFA500;
+}
+a:hover{
+  color:#800080;
+}
+
+
+html{
+  border:solid 1px #000000;
+  margin:3px;
+}
+#suresh{
+ text-align:center;
+font-size:10px;
+  
+}
