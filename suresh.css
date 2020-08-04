@@ -35,7 +35,8 @@ html{
 
 #arrow{
 color:#800080;
-display:inline-block;
+display:inline;
+font-size:100%;
 }
 @media screen and (max-width: 480px) {
    #position{
