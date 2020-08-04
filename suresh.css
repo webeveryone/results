@@ -56,4 +56,10 @@ font-size:80%;
 a:hover{
   color:#800080;
 }
+  #position1{
+  display:block;
+margin-left:auto;
+margin-right:auto;
+width:10%;
+}
 }
